@@ -1,0 +1,24 @@
+body{
+  background-color: black;
+}
+#testdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh; 
+}
+
+.title {
+  color: white; 
+  font-size: 4.5em; 
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px; 
+}
+
+.image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+}
