@@ -1,0 +1,490 @@
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.exe
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+/Users/mariekogstad/Documents/GitHub/Examtest2/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+/Users/mariekogstad/Documents/GitHub/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.exe
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+C:/Users/marcu/OneDrive/Desktop/Webutvikling/exam_f1/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/appsettings.Development.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/appsettings.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api.staticwebassets.runtime.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api.deps.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api.runtimeconfig.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/f1_api.pdb
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Humanizer.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.AspNetCore.OpenApi.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Microsoft.OpenApi.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/System.CodeDom.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.AssemblyReference.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.GeneratedMSBuildEditorConfig.editorconfig
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfoInputs.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.AssemblyInfo.cs
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CoreCompileInputs.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cs
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.MvcApplicationPartsAssemblyInfo.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.build.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.f1_api.props
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.build.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/staticwebassets.development.json
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/scopedcss/bundle/f1_api.styles.css
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.csproj.CopyComplete
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/refint/f1_api.dll
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.pdb
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/f1_api.genruntimeconfig.cache
+/Users/shir/Desktop/exam_f1 - Copy-2/F1Exam-1/exam_f1/f1_api/obj/Debug/net7.0/ref/f1_api.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\appsettings.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.staticwebassets.runtime.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.exe
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.deps.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.runtimeconfig.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\f1_api.pdb
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Humanizer.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.Data.Sqlite.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\SQLitePCLRaw.core.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\bin\Debug\net7.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.csproj.AssemblyReference.cache
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.AssemblyInfoInputs.cache
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.AssemblyInfo.cs
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.csproj.CoreCompileInputs.cache
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets\msbuild.f1_api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets\msbuild.build.f1_api.props
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.f1_api.props
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.f1_api.props
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\scopedcss\bundle\f1_api.styles.css
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.csproj.CopyComplete
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\refint\f1_api.dll
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.pdb
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\f1_api.genruntimeconfig.cache
+C:\Users\marcu\OneDrive\Desktop\Webutvikling\exam_f1\F1Exam\exam_f1\f1_api\obj\Debug\net7.0\ref\f1_api.dll
