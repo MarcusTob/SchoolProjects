@@ -1,0 +1,234 @@
+
+body { 
+    background-color: #05f29b; 
+    margin: 0;
+    padding: 0;
+}
+
+/* Styling for navbar */
+.navBar { 
+    background-color: #151426; 
+    color: #ffffff; 
+    padding:3rem; 
+    text-align: center;
+}
+
+.navBarLeft{
+    float: left;
+}
+
+.navBarRight{
+    float: right;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    grid-gap: 2rem;
+}
+
+
+
+.navBar-hamburger{
+    display: none;
+    float: right;
+}
+
+/* Styling for materials bar */
+.materials-bar{
+    margin-top: 2rem;
+    display: flex;
+    gap: 1rem;
+    justify-content: center;
+}
+
+.materials-bar > div > div > img {
+    max-width: 3rem;
+    max-height: 3rem;
+}
+
+.materials-bar > div {
+    display: flex;
+    color: #222;
+    font-weight: 600;
+    font-size: 1.3rem;
+    border-radius: 1rem;
+    gap: 3rem;
+    padding: 1rem;
+    padding-right: 1rem;
+    padding-left: 1rem;
+    text-align: center;
+    background-color: #bbffc7;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.materials-bar > p {
+    align-self: center;
+}
+
+/* styling image by price to be smaller */
+.price-img{
+    max-width: 1rem;
+    max-height: 1rem;
+}
+
+/* Styling for category buttons */
+.showButtons{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 2rem;
+    justify-content: center;
+    gap: 1rem;
+}
+
+.show-items-btn{
+    background-color: #d9fee0;
+    border-radius: 0.5rem;
+    font-weight: 600;
+    color: black;
+    padding: 1rem;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.show-items-btn:hover {
+    background-color: #d9fee097;
+    transform: scale(0.99);
+}
+
+/* Styling for buy buttons */
+.buy-button{
+    margin: 4px;
+    background-color: #40ab64;
+    box-shadow: 1px 2px 2px rgba(0,0,0,0.6);
+    border-radius: 12px;
+    color: white;
+    padding: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 5px;
+    text-align: center;
+}
+
+.buy-button:hover {
+    transform: scale(0.99);
+    background-color: #40ab6490;
+}
+
+/* styling for elements in the shop */
+.shop-item{
+    background-color: #bbffc7;
+    padding: 12px;
+    border-radius: 8px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    align-items: center;
+    justify-items: center;
+    gap: 10px;
+}
+
+.shop-item-title {
+    font-weight: bold;
+    color: #333;
+    font-size: 1.3rem;
+}
+
+.price {
+    font-weight: 600;
+    color: #333;
+    font-size: 1.3rem;
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+/* Styling for the images in the shop */
+.responsive-image{
+    height: 90%;
+    background-color: #ffffff;
+    padding: 10px;
+    border-radius: 8px;
+    border: 1px solid rgba(0,0,0,0.2);
+}
+
+.responsive-image:hover{
+    transform: scale(1.02);
+    transition: all 0.5s ease-in-out;
+}
+
+/* Styling of items output */
+.output{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1rem;
+    padding: 2rem;
+}
+
+#army-output{
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    gap: 1rem;
+    padding: 2rem;
+}
+/*ensures the text does not get condensed into 1 grid column*/
+#text-span{
+    grid-column: 1/ span 8;
+}
+
+/* cursor styling when hovering resources */
+#mine-img{
+    cursor: url(../images/pickaxe-cursor.png), pointer;
+}
+
+#forest-img{
+    cursor: url(../images/axe-cursor.png), pointer;
+}
+
+.getting-resources-img:active {
+    transform: scale(0.99);
+    transition: all 0.02s step-start;
+}
+
+/*media queries*/
+/*hides navbar on phone, and displays hamburger menu, but hamburger menu doesnt display anything :) */
+@media only screen and (max-width: 640px){
+    .output{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        gap: 1rem;
+        padding: 2rem;
+    }
+    #army-output{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .gather-section{
+        display: block
+    }
+
+    .navBarRight{
+        display: none;
+    }
+    .navBar-hamburger{
+        display: block;
+    }
+}
+
+
+@media only screen and (min-width: 641px) and (max-width: 769px){
+    .output{
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+        padding: 2rem;
+    }
+    #army-output{
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+    .gather-section{
+        display: block
+    }
+
+
+}

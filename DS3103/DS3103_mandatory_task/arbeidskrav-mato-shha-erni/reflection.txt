@@ -1,0 +1,20 @@
+Things we could have done better:
+
+We should probably have combined all arrays into 1 array, and used a filter function to display the 
+array we wanted. This would make it so we only needed 2 modules, instead of 4.
+
+Could also have used filter to let the user filter their army, but we feel this is only necessary 
+in larger games where you would have many more items in army. So, instead we just sorted it, that way it displays the categories together.
+
+In 'YourArmyModule' we made a 'checkIfArmyArrayExists()', we should also have made that function in 'GettingResourcesModule',
+that way the 'retrieveX' functions would be easier to read.
+
+Should probably have split the main.css into more css files, since some styling done there is only for one page.
+
+Styling for the Your Army page is not ideal, pictures are not uniform.
+
+for media queries we chose three different displays to cater to, phone, tablet and desktop,
+max-width 640px, max-width 769px and default is for anything above, we realized too late that we shouldve had a mobile first approach :/
+
+In media query, on devices > 640px, it displays a hamburger menu, this menu doesnt actually do anything yet, we put it in
+mostly so the look of the page reflected what we wanted.
