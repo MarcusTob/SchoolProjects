@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oppgave 4 - student 3</title>
+        <link rel="stylesheet" href="./css/oppgave4-3.css" />
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Caveat+Brush&family=Inter:wght@300&family=Mitr&family=Sen&display=swap" rel="stylesheet">
+    </head>
+    <body>
+        <div class="cardContainer">
+            <div class="card">
+                <img id="eple" src="images/apple.jpg" alt="Apple image" />
+            </div>
+            <div class="card">
+                <img id="katt" src="images/cat.jpg" alt="katt" />
+            </div>
+            <div class="card">
+                <img id="palme" src="images/palm.jpg" alt="palme" />
+            </div>
+            <div class="card">
+                <img id="robot" src="images/robot.jpg" alt="robot" />
+            </div>
+            <div class="card">
+                <img id="cookie" src="images/cookie.jpg" alt="cookie" />
+            </div>
+        </div>
+        <div id="description">
+            
+        </div>
+        <script>
+            var epleImg = document.getElementById("eple");
+            var kattImg = document.getElementById("katt");
+            var palme = document.getElementById("palme");
+            var robot = document.getElementById("robot");
+            var cookie = document.getElementById("cookie");
+
+            const infoArray = [
+                {
+                    name: "eple",
+                    src: "images/apple.jpg",
+                    alt: "Apple image",
+                    desc: "Eple er en frukt som er rød og smaker godt",
+                },
+                {
+                    name: "katt",
+                    src: "images/cat.jpg",
+                    alt: "katt",
+                    desc: "Dette er en katt, den er grå og har fire bein",
+                },
+                {
+                    name: "palme",
+                    src: "images/palm.jpg",
+                    alt: "palme",
+                    desc: "Dette er en palme, palmer er grønne og vokser i varme land",
+                },
+                {
+                    name: "robot",
+                    src: "images/robot.jpg",
+                    alt: "robot",
+                    desc: "Dette er en robot, roboter er laget av mennesker og kan gjøre mange ting",
+                },
+                {
+                    name: "cookie",
+                    src: "images/cookie.jpg",
+                    alt: "cookie",
+                    desc: "Dette er en cookie, cookies er små og smaker godt",
+                },
+            ];
+
+            function setDescription(info) {
+                descriptionDiv = document.getElementById("description");
+                descriptionDiv.innerHTML = `${info.desc}`;
+            }
+
+            function getSelectedImage() {
+                let element = this;
+                let infoItem = infoArray.find((item) => item.name === element.id);
+                setDescription(infoItem);
+                parentDiv = this.parentNode;
+                parentDiv.style.transform = "scale(1.08)";
+                parentDiv.style.transition = "0.6s"
+                setTimeout(() => {
+                    parentDiv.style.transform = "scale(1)";
+                    parentDiv.style.transition = "0.3s"
+                }, 1000);
+            }
+
+            eple.onclick = getSelectedImage;
+            katt.onclick = getSelectedImage;
+            palme.onclick = getSelectedImage;
+            robot.onclick = getSelectedImage;
+            cookie.onclick = getSelectedImage;
+        </script>
+    </body>
+</html>

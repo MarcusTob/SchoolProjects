@@ -1,0 +1,248 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Oppgave 2 - Miaow Miaow møter fisken</title>
+        <link rel="stylesheet" href="css/oppgave2.css" type="text/css" />
+    </head>
+    <body>
+        <div id="menu-container">
+            <input id="move-left-btn" type="button" value="Venstre" />
+            <input id="move-up-btn" type="button" value="Opp" />
+            <input id="move-right-btn" type="button" value="Høyre" />
+            <input id="move-down-btn" type="button" value="Ned" />
+        </div>
+        <div id="game-container">
+            <p>Antall steg: <span id="number-of-steps-span">0</span></p>
+            <img id="miaow-miaow" src="images/miaow-miaow.png" />
+            <img id="the-mighty-fish" src="images/fish.png" />
+            <h2 id="fish-room-title">Fiskens rom</h2>
+            <div id="line-div"></div>
+        </div>
+        <div id="dialogue-output-div">
+            <p>Miaow Miaow: <span id="miaow-miaow-says">...</span></p>
+            <p>Fisken: <span id="fish-says">...</span></p>
+        </div>
+
+        <script>
+            //dyr
+            var katt = document.getElementById("miaow-miaow");
+            var fish = document.getElementById("the-mighty-fish");
+
+            //movement
+            var venstreBtn = document.getElementById("move-left-btn");
+            var oppBtn = document.getElementById("move-up-btn");
+            var høyreBtn = document.getElementById("move-right-btn");
+            var nedBtn = document.getElementById("move-down-btn");
+
+            var venstre = 0;
+            var høyre = 0;
+
+            var linje = document.getElementById("line-div");
+            var steps = document.getElementById("number-of-steps-span");
+            let stepCount = 0;
+
+            var dialogue = document.getElementById("dialogue-output-div");
+            var kattTalk = document.getElementById("miaow-miaow-says");
+            var fishTalk = document.getElementById("fish-says");
+
+            var gameContainer = document.getElementById("game-container");
+
+            var kattPositionLeft = getKattPositionLeft(katt);
+            var kattPositionBottom = getKattPositionBottom(katt);
+
+            //Spørsmål
+            const questionArray = [];
+            questionArray[0] = "Kommer det snø i år?";
+            questionArray[1] = "Blir jeg rik i fremtiden?";
+            questionArray[2] = "Skal jeg donere alle pengene mine i år?";
+            questionArray[3] = "Burde jeg investere i crypto?";
+            questionArray[4] = "Burde jeg spare mer penger?";
+            //Svar
+            const answerArray = [];
+            answerArray[0] = "Ja!";
+            answerArray[1] = "Uten tvil!";
+            answerArray[2] = "Det kan virke sånn!";
+            answerArray[3] = "Nei!";
+            answerArray[4] = "Det kan jeg ikke svare på";
+
+            var foodCount = 0;
+            let foodCountDiv = document.createElement("foodCount");
+            gameContainer.appendChild(foodCountDiv);
+
+            //STEP COUNTER
+            function countSteps() {
+                steps.innerHTML = `${stepCount}`;
+            }
+
+            //RANDOM QUESTION
+            function getRandomQ(questionArray) {
+                let question =
+                    questionArray[
+                        Math.floor(Math.random() * questionArray.length)
+                    ];
+                kattTalk.innerHTML = `${question}`;
+            }
+            function getRandomA(answerArray) {
+                let answer =
+                    answerArray[Math.floor(Math.random() * answerArray.length)];
+                fishTalk.innerHTML = `🎱${answer}🎱`;
+            }
+
+            fish.onclick = function () {
+                let kattPositionLeft = getKattPositionLeft(katt);
+
+                if (kattPositionLeft >= 600 && foodCount > 0) {
+                    getRandomQ(questionArray);
+                    getRandomA(answerArray);
+                    foodCount--;
+                    spawnFood();
+                    foodCountDiv.innerHTML = "";
+                } else if (kattPositionLeft >= 600 && foodCount == 0) {
+                    fishTalk.innerHTML = "Jeg er sulten!";
+                }
+                 else {
+                    fishTalk.innerHTML = "Jeg kan ikke høre deg kom nærmere!";
+                }
+            };
+
+            //GET POSITION
+            function getKattPositionLeft(katt) {
+                style = window.getComputedStyle(katt);
+                left = style.getPropertyValue("left");
+                return parseInt(left);
+            }
+
+            function getKattPositionBottom(katt) {
+                style = window.getComputedStyle(katt);
+                bottom = style.getPropertyValue("bottom");
+                return parseInt(bottom);
+            }
+
+            //MOVE KATT
+            //LEFT
+            function moveKattLeft(katt) {
+                var currentPosLeft = getKattPositionLeft(katt) - 50;
+                katt.style.left = currentPosLeft.toString() + "px";
+
+                if (currentPosLeft <= 0) {
+                    katt.style.left = 0 + "px";
+                }
+
+                console.log("left: ", currentPosLeft);
+            }
+            //UP
+            function moveKattUp(katt) {
+                var currentPosBottom = getKattPositionBottom(katt) + 50;
+                katt.style.bottom = currentPosBottom.toString() + "px";
+
+                if (currentPosBottom >= 466) {
+                    katt.style.bottom = 466 + "px";
+                }
+
+                console.log("bottom: ", currentPosBottom);
+            }
+            //RIGHT
+            function moveKattRight(katt) {
+                var currentPosLeft = getKattPositionLeft(katt) + 50;
+                katt.style.left = currentPosLeft.toString() + "px";
+
+                if (currentPosLeft >= 700) {
+                    katt.style.left = 0 + "px";
+                    katt.style.bottom = 466 + "px";
+                    fishTalk.innerHTML = "NÅ KOM DU ALTFOR NÆRME 😡";
+                    kattTalk.innerHTML = "Sorry 😿";
+                }
+
+                console.log("left: ", currentPosLeft);
+            }
+            //DOWN
+            function moveKattDown(katt) {
+                var currentPosBottom = getKattPositionBottom(katt) - 50;
+                katt.style.bottom = currentPosBottom.toString() + "px";
+
+                if (currentPosBottom <= 0) {
+                    katt.style.bottom = 0 + "px";
+                }
+
+                console.log("bottom: ", currentPosBottom);
+            }
+
+            //FUNKSJONER
+            venstreBtn.onclick = function () {
+                stepCount++;
+                countSteps();
+                moveKattLeft(katt); 
+            };
+            oppBtn.onclick = function () {
+                stepCount++;
+                countSteps();
+                moveKattUp(katt);
+
+            };
+            høyreBtn.onclick = function () {
+                stepCount++;
+                countSteps();
+                moveKattRight(katt);
+            };
+            nedBtn.onclick = function () {
+                stepCount++;
+                countSteps();
+                moveKattDown(katt);
+            };
+
+            
+            //UTVIDELSER OPPGAVE 4.1
+            //NB det er også endret på koden over denne linjen fordi vi måtte legge til flere elementer i bla. 
+            // funksjoner og onclick for at det skal fungere
+            //TEKNIKKER BRUKT : Math.random()
+            //                  set.Interval for å sjekke kollisjon
+            
+
+            
+            const foodArray = ["🍉", "🍗", "🍪"];
+
+            function spawnFood() {
+                let food = foodArray[Math.floor(Math.random() * foodArray.length)];
+                let foodDiv = document.createElement("div");
+                foodDiv.id = "food";
+                foodDiv.innerHTML = `${food}`;
+                foodDiv.style.position = "absolute";
+                foodDiv.style.left = `${Math.floor(Math.random() * 550)}px`;
+                foodDiv.style.bottom = `${Math.floor(Math.random() * 466)}px`;
+                foodDiv.style.fontSize = "40px";
+                gameContainer.appendChild(foodDiv);
+                console.log("spawnFood Test: ")
+                
+            }
+
+            function getPositionFood() {
+                let food = document.getElementById("food");
+                style = window.getComputedStyle(food);
+                left = style.getPropertyValue("left");
+                bottom = style.getPropertyValue("bottom");
+                return {
+                    left: parseInt(left),
+                    bottom: parseInt(bottom),
+                };
+            }
+
+            function checkCollision() {
+                if (foodCount == 0) {  
+                    let foodPosition = getPositionFood();
+                    if (Math.abs(foodPosition.left - getKattPositionLeft(katt)) < 100 && Math.abs(foodPosition.bottom - getKattPositionBottom(katt)) < 100) {
+                        food = document.getElementById("food");
+                        food.remove();
+                        foodCount++;
+                        foodCountDiv.innerHTML = `Matbit plukket opp! Du kan nå stille fisken spørsmål`;
+                    }
+                }
+                }
+
+            spawnFood();
+            setInterval(checkCollision, 500);
+        </script>
+    </body>
+</html>
