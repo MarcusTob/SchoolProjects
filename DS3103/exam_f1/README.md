@@ -12,3 +12,5 @@ The drivers images are taken from the same website as above, and are all .png fi
 
 We had a hard time adding media queries, we wanted to do a mobile first approach, as you should. 
 But that turned out to be very challenging in the styling phase.
+
+Result: B
