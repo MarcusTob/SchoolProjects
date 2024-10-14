@@ -1,0 +1,921 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formula 1 Api</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/axios/1.1.3/axios.min.js"></script>
+    <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.2.19/dist/tailwind.min.css" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="container">
+        <header>
+            <h1 class="text-3xl">Formula 1 Api Documentation</h1>
+            <h1 class="text-lg">Base Url: localhost:5056/FormulaOne</h1>
+        </header>
+
+        <main>
+            <section id="driverDetails">
+
+                <h2 class="text-2xl">Driver Details</h2>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/drivers</strong></h3>
+                            <h3>
+                                <b>Responses</b>
+                            </h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers' \ <br>
+                                -H 'accept: text/plain'<br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers</p>
+                            <h3><strong>Server response</strong></h3>
+                            <code>
+                                [  <br>
+                                    { <br>
+                                        "id": 1,<br>
+                                        "name": "Max Verstappen",<br>
+                                        "age": 26,<br>
+                                        "nationality": "Netherlands",<br>
+                                        "driverImage": "max-verstappen.png"<br>
+                                    },<br>
+                                    { <br>
+                                        "id": 2,<br>
+                                        "name": "Sergio Perez",<br>
+                                        "age": 33,<br>
+                                        "nationality": "Mexico",<br>
+                                        "driverImage": "sergio-perez.png"<br>
+                                     },<br>
+                                    {<br>
+                                        "id": 3,<br>
+                                        "name": "Lewis Hamilton",<br>
+                                        "age": 38,<br>
+                                        "nationality": "United Kingdom",<br>
+                                        "driverImage": "lewis-hamilton.png"<br>
+                                    },<br>
+                                    {<br>
+                                        "id": 4,<br>
+                                        "name": "Carlos Sainz",<br>
+                                        "age": 29,<br>
+                                        "nationality": "Spain",<br>
+                                        "driverImage": "carlos-sainz.png"<br>
+                                    },<br>
+                                    { <br>
+                                        "id": 5,<br>
+                                        "name": "Fernando Alonso",<br>
+                                        "age": 42,<br>
+                                        "nationality": "Spain",<br>
+                                         "driverImage": "fernando-alonso.png"<br>
+                                    },<br>
+                                    {<br>
+                                        "id": 6,<br>
+                                        "name": "Lando Norris",<br>
+                                        "age": 24,<br>
+                                        "nationality": "United Kingdom",<br>
+                                        "driverImage": "lando-norris.png"<br>
+                                    }<br>
+                                ]<br>
+                            </code>
+                            <h3><strong>Responses</strong></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                [ <br>
+                                    {<br>
+                                        "id": 0,<br>
+                                        "name": "string",<br>
+                                        "age": 0,<br>
+                                        "nationality": "string",<br>
+                                        "driverImage": "string"<br>
+                                    }<br>
+                                ]<br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'POST' request to: <strong>POST/FormulaOne/drivers</strong></h3>
+                            <h3>
+                                <b>Request body</b>
+                            </h3>
+                            <code>
+                                { <br>
+                                    "id": 40, <br>
+                                    "name": "Mike Dole", <br>
+                                    "age": 20, <br>
+                                    "nationality": "British", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+
+                            <h3>
+                                <b>Responses</b>
+                            </h3>
+                            <p>
+                                curl -X 'POST' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d '<br>
+                            </p>
+                            <code>
+                                '{ <br>
+                                    "id": 40, <br>
+                                    "name": "Mike Dole", <br>
+                                    "age": 20, <br>
+                                    "nationality": "British", <br>
+                                    "driverImage": "string" <br>
+                                  }' <br>
+                            </code>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 500 <br>
+                                Details: ERROR <br>
+                            </p>
+                            <code>
+
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                [ <br>
+                                    {<br>
+                                        "id": 0,<br>
+                                        "name": "string",<br>
+                                        "age": 0,<br>
+                                        "nationality": "string",<br>
+                                        "driverImage": "string"<br>
+                                    }<br>
+                                ]<br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/drivers/{id}</strong></h3>
+                            <h3>
+                                <b>Responses</b>
+                            </h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers/1' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers/1</p>
+                            <h3><strong>Server response</strong></h3>
+                            <code>
+                                { <br>
+                                    "id": 1, <br>
+                                    "name": "Max Verstappen", <br>
+                                    "age": 26, <br>
+                                    "nationality": "Netherlands", <br>
+                                    "driverImage": "max-verstappen.png" <br>
+                                } <br>
+                            </code>
+
+                            <h3>
+                                <b>Responses</b>
+                            </h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                {
+                                    "id": 0,<br>
+                                    "name": "string",<br>
+                                    "age": 0,<br>
+                                    "nationality": "string",<br>
+                                    "driverImage": "string"<br>
+                               
+                                }
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'PUT' request to: <strong>PUT/FormulaOne/drivers/{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id <br>
+                                Description: 1 <br>
+                            </p>
+
+                            <h3>Request body</h3>
+
+                            <code>
+                                { <br>
+                                    "id": 1, <br>
+                                    "name": "Max Vestappen updated", <br>
+                                    "age": 26, <br>
+                                    "nationality": "Netherlands", <br>
+                                    "driverImage": "new-max-verstappen.png" <br>
+                                } <br>
+                            </code>
+
+                            <h3>
+                                <b>Responses</b>
+                            </h3>
+
+                            <p>
+                                curl -X 'PUT' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers/7' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d ' <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 7, <br>
+                                    "name": "John Doe", <br>
+                                    "age": 40, <br>
+                                    "nationality": "Norwegian", <br>
+                                    "driverImage": "john-doe.png" <br>
+                                } <br>
+                            </code>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers/7</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "name": "string", <br>
+                                    "age": 0, <br>
+                                    "nationality": "string", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'DELETE' request to: <strong>DELETE/FormulaOne/drivers/{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id <br>
+                                Description: 1 <br>
+                            </p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'DELETE' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers/1' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers/176</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "name": "string", <br>
+                                    "age": 0, <br>
+                                    "nationality": "string", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/drivers/{name}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: Lewis Hamilton<br>
+                            </p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/drivers/Lewis%20Hamilton' \ <br>
+                                -H 'accept: text/plain' <br>
+
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/drivers/Lewis%20Hamilton</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 500 <br>
+                                Description: ERROR <br>
+                            </p>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "name": "string", <br>
+                                    "age": 0, <br>
+                                    "nationality": "string", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+                <div id="outputDrivers"></div>
+            </section>
+
+            <section id="raceDetails">
+
+                <h2 class="text-2xl">Race Details</h2>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/race</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/races' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/races</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 200 <br>
+                                Details: Response body <br>
+                            </p>
+
+                            <code>
+                                [ <br>
+                                    { <br>
+                                        "id": 1, <br>
+                                        "winnerName": "Max Verstappen", <br>
+                                        "winnerTime": "1h 33m", <br>
+                                        "country": "Bahrain", <br>
+                                        "numberOfLaps": 57 <br>
+                                    }, <br>
+                                    { <br>
+                                        "id": 2, <br>
+                                        "winnerName": "Sergio Perez", <br>
+                                        "winnerTime": "1h 21m", <br>
+                                        "country": "Saudi Arabia", <br>
+                                        "numberOfLaps": 50 <br>
+                                    } <br>
+                                ] <br>
+                            </code>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "name": "string", <br>
+                                    "age": 0, <br>
+                                    "nationality": "string", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'POST' request to: <strong>POST/FormulaOne/race</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p> Request body</p>
+                            <code>
+                                { <br>
+                                    "id": 45, <br>
+                                    "winnerName": "John Doe", <br>
+                                    "winnerTime": "3.50", <br>
+                                    "country": "USA", <br>
+                                    "numberOfLaps": 1 <br>
+                                  } <br>
+                            </code>
+
+                            <h3><b>Responses</b></h3>
+
+                            <p>
+                                curl -X 'POST' \ <br>
+                                'http://localhost:5056/FormulaOne/races' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d ' <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 45, <br>
+                                    "winnerName": "John Doe", <br>
+                                    "winnerTime": "3.50", <br>
+                                    "country": "USA", <br>
+                                    "numberOfLaps": 1 <br>
+                                } <br>
+                            </code>
+
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/races</p>
+                            <h3><strong>Server response</strong></h3>
+                            <p>
+                                Code: 201 <br>
+                                Details: Response body <br>
+                            </p>
+
+                            <code>
+                                [ <br>
+                                    { <br>
+                                        "id": 45, <br>
+                                        "winnerName": "John Doe", <br>
+                                        "winnerTime": "3.50", <br>
+                                        "country": "USA", <br>
+                                        "numberOfLaps": 1 <br>
+                                    }, <br>
+                                    { <br>
+                                        "id": 2, <br>
+                                        "winnerName": "Sergio Perez", <br>
+                                        "winnerTime": "1h 21m", <br>
+                                        "country": "Saudi Arabia", <br>
+                                        "numberOfLaps": 50 <br>
+                                    } <br>
+                                ] <br>
+                            </code>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "name": "string", <br>
+                                    "age": 0, <br>
+                                    "nationality": "string", <br>
+                                    "driverImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/race{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id; <br>
+                                Description: 45; <br>
+                            </p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/races' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d ' <br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/races</p>
+                            <h3><strong>Server response</strong></h3>
+                            <code>
+                                { <br>
+                                    "id": 45, <br>
+                                    "winnerName": "John Doe", <br>
+                                    "winnerTime": "3.50", <br>
+                                    "country": "USA", <br>
+                                    "numberOfLaps": 1 <br>
+                                } <br>
+                            </code>
+
+                            <code>
+                                [ <br>
+                                    { <br>
+                                        "id": 45, <br>
+                                        "winnerName": "John Doe", <br>
+                                        "winnerTime": "3.50", <br>
+                                        "country": "USA", <br>
+                                        "numberOfLaps": 1 <br>
+                                    } <br>
+                            </code>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "winnerName": "string", <br>
+                                    "winnerTime": "string", <br>
+                                    "country": "string", <br>
+                                    "numberOfLaps": 0 <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'PUT' request to: <strong>PUT/FormulaOne/race{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id; <br>
+                                Description: 32; <br>
+                            </p>
+
+                            <p> Request body</p>
+                            <code>
+                                { <br>
+                                    "id": 32, <br>
+                                    "winnerName": "Harry Platter", <br>
+                                    "winnerTime": "2.60", <br>
+                                    "country": "England", <br>
+                                    "numberOfLaps": 2 <br>
+                                  } <br>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'PUT' \ <br>
+                                'http://localhost:5056/FormulaOne/races/32' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d ' <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 32, <br>
+                                    "winnerName": "Harry Platter", <br>
+                                    "winnerTime": "2.60", <br>
+                                    "country": "England", <br>
+                                    "numberOfLaps": 2 <br>
+                                } <br>
+                            </code>
+
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/races/32</p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "winnerName": "string", <br>
+                                    "winnerTime": "string", <br>
+                                    "country": "string", <br>
+                                    "numberOfLaps": 0 <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'DELETE' request to: <strong>DELETE/FormulaOne/race{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id; <br>
+                                Description: 32; <br>
+                            </p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'DELETE' \ <br>
+                                'http://localhost:5056/FormulaOne/races/32' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/races/32</p>
+                            <h3><strong>Server response</strong></h3>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "winnerName": "string", <br>
+                                    "winnerTime": "string", <br>
+                                    "country": "string", <br>
+                                    "numberOfLaps": 0 <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <div id="outputRaces"></div>
+            </section>
+
+            <section id="teamDetails">
+
+                <h2 class="text-2xl">Team Details</h2>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/teams</strong></h3>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/teams' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+                        </li>
+                    </ul>
+                    <p><b>Request URL:</b> http://localhost:5056/FormulaOne/teams</p>
+                    <h3><strong>Server response</strong></h3>
+                    <code>
+                        [ <br>
+                            { <br>
+                                "id": 1, <br>
+                                "manufacturer": "Mercedes", <br>
+                                "driver1": "Max Verstappen", <br>
+                                "driver2": "Sergio Perez", <br>
+                                "carImage": "mercedes.png" <br>
+                            }, <br>
+                            { <br>
+                                "id": 2, <br>
+                                "manufacturer": "Ferrari", <br>
+                                "driver1": "Lewis Hamilton", <br>
+                                "driver2": "Carlos Sainz", <br>
+                                "carImage": "ferrari.png" <br>
+                            }, <br>
+                            { <br>
+                                "id": 3, <br>
+                                "manufacturer": "McLaren", <br>
+                                "driver1": "Fernando Alonso", <br>
+                                "driver2": "Lando Norris", <br>
+                                "carImage": "mclaren.png" <br>
+                            } <br>
+                        ] <br>
+                    </code>
+
+                    <h3><b>Responses</b></h3>
+                    <p>
+                        Code: 200 <br>
+                        Description: Success <br>
+                    </p>
+                    <code>
+                        [ <br>
+                            { <br>
+                                "id": 0, <br>
+                                "name": "string", <br>
+                                "age": 0, <br>
+                                "nationality": "string", <br>
+                                "driverImage": "string" <br>
+                            } <br>
+                        ] <br>
+                    </code>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'POST' request to: <strong>POST/FormulaOne/teams</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>Request body</p>
+                            <code>
+                                { <br>
+                                    "id": 31, <br>
+                                    "manufacturer": "BMW", <br>
+                                    "driver1": "Jon Doe", <br>
+                                    "driver2": "Jonathan Does", <br>
+                                    "carImage": "string" <br>
+                                  } <br>
+                            </code>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'POST' \ <br>
+                                'http://localhost:5056/FormulaOne/teams' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 31, <br>
+                                    "manufacturer": "BMW", <br>
+                                    "driver1": "Jon Doe", <br>
+                                    "driver2": "Jonathan Does", <br>
+                                    "carImage": "string" <br>
+                                  } <br>
+                            </code>
+                        </li>
+                    </ul>
+                    <p><b>Request URL:</b>http://localhost:5056/FormulaOne/teams</p>
+                    <h3><b>Responses</b></h3>
+                    <p>
+                        Code: 200 <br>
+                        Description: Success <br>
+                    </p>
+                    <code>
+                        { <br>
+                            "id": 0, <br>
+                            "manufacturer": "string", <br>
+                            "driver1": "string", <br>
+                            "driver2": "string", <br>
+                            "carImage": "string" <br>
+                        } <br>
+                    </code>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'GET' request to: <strong>GET/FormulaOne/teams{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id;
+                                Description: 14;
+                            </p>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'GET' \ <br>
+                                'http://localhost:5056/FormulaOne/teams/14' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                            </p>
+                        </li>
+                    </ul>
+                    <p><b>Request URL:</b>http://localhost:5056/FormulaOne/teams/14</p>
+                    <h3><b>Responses</b></h3>
+                    <p>
+                        Code: 200 <br>
+                        Description: Success <br>
+                    </p>
+                    <code>
+                        { <br>
+                            "id": 0, <br>
+                            "manufacturer": "string", <br>
+                            "driver1": "string", <br>
+                            "driver2": "string", <br>
+                            "carImage": "string" <br>
+                        } <br>
+                    </code>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'PUT' request to: <strong>PUT/FormulaOne/teams{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id; <br>
+                                Description: 33; <br>
+                            </p>
+
+                            <p> Request body</p>
+                            <code>
+                                { <br>
+                                    "id": 33, <br>
+                                    "manufacturer": "Red Bull", <br>
+                                    "driver1": "Steven One", <br>
+                                    "driver2": "Steve Two", <br>
+                                    "carImage": "string" <br>
+                                  } <br>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'PUT' \ <br>
+                                'http://localhost:5056/FormulaOne/races/32' \ <br>
+                                -H 'accept: text/plain' \ <br>
+                                -H 'Content-Type: application/json' \ <br>
+                                -d ' <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 33, <br>
+                                    "manufacturer": "Red Bull", <br>
+                                    "driver1": "Steven One", <br>
+                                    "driver2": "Steve Two", <br>
+                                    "carImage": "string" <br>
+                                } <br>
+                            </code>
+
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/teams/33</p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "manufacturer": "string", <br>
+                                    "driver1": "string", <br>
+                                    "driver2": "string", <br>
+                                    "carImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+
+                <article>
+                    <ul>
+                        <li>
+                            <h3>'DELETE' request to: <strong>DELETE/FormulaOne/teams{id}</strong></h3>
+                            <h3>
+                                <b>Parameters</b>
+                            </h3>
+                            <p>
+                                Name: id; <br>
+                                Description: 33; <br>
+                            </p>
+
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                curl -X 'DELETE' \ <br>
+                                'http://localhost:5056/FormulaOne/teams/33' \ <br>
+                                -H 'accept: text/plain' <br>
+                            </p>
+                            <p><b>Request URL:</b> http://localhost:5056/FormulaOne/teams/33</p>
+                            <h3><strong>Server response</strong></h3>
+                            <h3><b>Responses</b></h3>
+                            <p>
+                                Code: 200 <br>
+                                Description: Success <br>
+                            </p>
+                            <code>
+                                { <br>
+                                    "id": 0, <br>
+                                    "manufacturer": "string", <br>
+                                    "driver1": "string", <br>
+                                    "driver2": "string", <br>
+                                    "carImage": "string" <br>
+                                } <br>
+                            </code>
+                        </li>
+                    </ul>
+                </article>
+            </section>
+        </main>
+    </div>
+</body>
+</html>
